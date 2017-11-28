@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kalkulaator</string>
+    <string name="kaks">sisesta kaks numbrit</string>
+    <string name="tulemus">Tulemus</string>
+</resources>
